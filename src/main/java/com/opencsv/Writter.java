@@ -1,4 +1,4 @@
-package org.example;
+package com.opencsv;
 
 import com.opencsv.CSVWriter;
 
