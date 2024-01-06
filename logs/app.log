@@ -1,0 +1,5 @@
+21:37:58.201 [main] INFO  com.ivoyant.mysql.CustomLogger - User Selected mysql
+21:38:16.455 [main] INFO  com.ivoyant.mysql.CustomLogger - Connection Established!!!
+21:38:26.079 [main] INFO  com.ivoyant.mysql.CustomLogger - Converted To CSV Successfully!!
+21:45:33.428 [main] INFO  com.ivoyant.mysql.CustomLogger - User Selected mysql
+21:45:49.999 [main] INFO  com.ivoyant.mysql.CustomLogger - Connection Established!!!
